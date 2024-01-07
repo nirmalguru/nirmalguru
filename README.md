@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @nirmalguru
-- 👀 I’m interested in Engineering communication optical links end to end long haul
-- 🌱 I’m currently a Master's student
+- 👀 I’m interested in Engineering - Wireless massive MIMO systems, Multicarrier Modulation Techniques like OFDM. Wireless MIMO diversity Techniques, Beamforming.
+  Optical communication optical links end to end long haul, Analysis of Non-Linear Effects introduced in the Optical Fibers.
+  Digital Signal Processing- Modulation Schemes,Digital/Analog/Hybrid system Architectures, Algorithms for Equalization and channel estimation Techniques
+  Radar Detection and Estimation Theory.
+  Design of Active Antenna Systems - Solid State Power Amplifiers, Direct Radiating Arrays(DRA) are the future
+  LTE,5G-NR.
+  Satellite Communication Systems.
+- 🌱 I’m currently a Master's student in Communication Engineering at University of Parma/Italy.
 - 💞️ I’m looking to collaborate on all the things in the world, that i have not been exposed to yet
-- 📫 How to reach me through git
+- 📫 Reach me through git or Linkedin https://www.linkedin.com/in/nirmalkumarmachikalapudi/
 
 <!---
 nirmalguru/nirmalguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
