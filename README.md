@@ -1,4 +1,4 @@
-- 👋 Hi, I’m #Nirmal 
+- 👋 Hi, I’m **Nirmal**
 - 👀 I’m interested in Engineering -
 - #Wireless massive MIMO systems, Multicarrier Modulation Techniques like OFDM. Wireless MIMO diversity Techniques, Beamforming.
   #Optical communication optical links end to end long haul, Analysis of Non-Linear Effects introduced in the Optical Fibers.
@@ -6,7 +6,7 @@
   #Radar Detection and Estimation Theory.
   #Design of Active Antenna Systems - Solid State Power Amplifiers, Direct Radiating Arrays(DRA) are the future
   #LTE,5G-NR.
-  £Satellite Communication Systems.
+  #Satellite Communication Systems.
 - 🌱 I’m currently a Master's degree student in Communication Engineering at University of Parma/Italy.
 - 💞️ I’m looking to collaborate on all the things in the Communication world, that i havn't been exposed to yet for active and passive learning.
 - 📫 Reach me through git or Linkedin https://www.linkedin.com/in/nirmalkumarmachikalapudi/
