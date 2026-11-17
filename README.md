@@ -8,9 +8,8 @@
   #LTE,5G-NR.
   #Satellite Communication Systems.
 - 🌱 Master degree graduate in Communication Engineering at University of Parma/Italy.
-- PhD @UniTN, Space Science and Technology cycle XL
+- 📫 PhD @UniTN, Space Science and Technology cycle XL
 - 💞️ I’m looking to collaborate on all the things in the Communication world, that i havn't been exposed to yet, for active and passive learning.
-- 📫 Reach me through git or Linkedin https://www.linkedin.com/in/nirmalkumarmachikalapudi/
 
 <!---
 nirmalguru/nirmalguru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
