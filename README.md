@@ -7,8 +7,9 @@
   #Design of Active Antenna Systems - Solid State Power Amplifiers, Direct Radiating Arrays(DRA) are the future
   #LTE,5G-NR.
   #Satellite Communication Systems.
-- 🌱 Recent Master degree graduate in Communication Engineering at University of Parma/Italy.
-- 💞️ I’m looking to collaborate on all the things in the Communication world, that i havn't been exposed to yet for active and passive learning.
+- 🌱 Master degree graduate in Communication Engineering at University of Parma/Italy.
+- PhD @UniTN, Space Science and Technology cycle XL
+- 💞️ I’m looking to collaborate on all the things in the Communication world, that i havn't been exposed to yet, for active and passive learning.
 - 📫 Reach me through git or Linkedin https://www.linkedin.com/in/nirmalkumarmachikalapudi/
 
 <!---
