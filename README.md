@@ -8,7 +8,7 @@
   #LTE,5G-NR.
   #Satellite Communication Systems.
 - 🌱 Master degree graduate in Communication Engineering at University of Parma/Italy.
-- 📫 PhD @UniTN, Space Science and Technology cycle XL
+- 📫 currently: working towards PhD @UniTN, Space Science and Technology cycle XL.
 - 💞️ I’m looking to collaborate on all the things in the Communication world, that i havn't been exposed to yet, for active and passive learning.
 
 <!---
